@@ -1,0 +1,6 @@
+*.css
+*.svg
+
+vite.config.ts
+*.stories.*
+src/stories
